@@ -21,10 +21,8 @@
     "url": "https://github.com/barbaracabral/serverRestAPI/issues"
   },
   "homepage": "https://github.com/barbaracabral/serverRestAPI#readme",
-  "devDependencies": {
-    "cypress": "^10.11.0"
-  },
   "dependencies": {
+    "cypress": "^10.11.0",
     "unique-names-generator": "^4.7.1"
   }
 }
