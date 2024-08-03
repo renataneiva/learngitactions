@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/barbaracabral/serverRestAPI.git"
+    "url": "git+https://github.com/renataneiva/learngitactions.git"
   },
   "keywords": [
     "test",
@@ -18,9 +18,9 @@
   "author": "Bárbara Cabral da Conceição",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/barbaracabral/serverRestAPI/issues"
+    "url": "https://github.com/renataneiva/learngitactions/issues"
   },
-  "homepage": "https://github.com/barbaracabral/serverRestAPI#readme",
+  "homepage": "https://github.com/renataneiva/learngitactions#readme",
   "dependencies": {
     "cypress": "^10.11.0",
     "unique-names-generator": "^4.7.1"
